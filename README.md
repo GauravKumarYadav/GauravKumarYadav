@@ -1,16 +1,13 @@
-### Hi there 👋
+# Gaurav Kumar Yadav
+<p align="center"><img src="https://www.pinclipart.com/picdir/big/528-5281773_young-people-clipart-man-on-laptop-cartoon-png.png" width="500" /> </p>
 
-<!--
-**GauravKumarYadav/GauravKumarYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋  Welcome to my profile
 
-Here are some ideas to get you started:
+Here's something about me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💁‍♀️ I'm a Computer Science Student at NIT Nagpur. 
+- 🥽 Diving Deep and learning there!..Oh! That's **Deep Learning**😎🤓
+- 📖 Currently learning about Deep Learning.
+- 💙 Python
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav-kumar-yadav/)](https://www.linkedin.com/in/gaurav-kumar-yadav/)
+- ⚡ Fun fact: I am also an Artist 🎨🎨
