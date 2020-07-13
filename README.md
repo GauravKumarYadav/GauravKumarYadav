@@ -1,5 +1,5 @@
 # Gaurav Kumar Yadav
-<p align="center"><img src="https://www.pinclipart.com/picdir/big/528-5281773_young-people-clipart-man-on-laptop-cartoon-png.png" width="500" height="600" /> </p>
+<p align="center"><img src="https://www.pinclipart.com/picdir/big/528-5281773_young-people-clipart-man-on-laptop-cartoon-png.png" width="50%" height="50%" /> </p>
 
 ## Hi there 👋  Welcome to my profile
 
