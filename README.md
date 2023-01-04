@@ -15,7 +15,7 @@ Here's something about me :
 
 - 💁‍♀️ I'm a Computer Science Student at NIT Nagpur. 
 - 🥽 Diving Deep and learning there!..Oh! That's **Deep Learning**😎🤓
-- 📖 Currently learning about EXPO.
-- 💙 React , React Native(EXPO)
+- 📖 Currently learning about Machine Learning Algorithms
+- 💙 Suggest me something that help me develop my personality
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyadav27/)](https://www.linkedin.com/in/gyadav27/)
 - ⚡ Fun fact: I am also a Gamer 🚗
