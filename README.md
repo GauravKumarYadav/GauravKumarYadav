@@ -17,5 +17,5 @@ Here's something about me :
 - 🥽 Diving Deep and learning there!..Oh! That's **Deep Learning**😎🤓
 - 📖 Currently learning about Machine Learning Algorithms
 - 💙 Suggest me something that help me develop my personality
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyadav27/)](https://www.linkedin.com/in/gyadav27/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/askgauravyadav/)](https://www.linkedin.com/in/askgauravyadav/)
 - ⚡ Fun fact: I am also a Gamer 🚗
